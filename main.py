@@ -1,3 +1,4 @@
+#import the packages
 import numpy as np 
   
 # import matplotlib.pyplot for plotting our result
